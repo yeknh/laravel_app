@@ -3,7 +3,7 @@
 
 <h1 class="page-header">Todo一覧</h1>
 <p class="text-right">
-  <a href="/todo/create" class="btn btn-success">ToDoを追加</a>
+  <a href="/todo/create" class="btn btn-success">新規作成</a>
 </p>
 <table class="table">
   <thread class="thread-light">
